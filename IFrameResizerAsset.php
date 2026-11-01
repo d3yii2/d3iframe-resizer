@@ -1,11 +1,11 @@
 <?php
 /**
- * @link https://github.com/nirvana-msu/yii2-iframe-resizer
+ * @link https://github.com/d3yii2-msu/yii2-iframe-resizer
  * @copyright Copyright (c) 2015 Alexander Stepanov
  * @license MIT
  */
 
-namespace nirvana\iframeresizer;
+namespace d3yii2\iframeresizer;
 
 use Yii;
 use yii\web\AssetBundle;
