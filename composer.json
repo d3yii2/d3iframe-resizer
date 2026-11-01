@@ -18,5 +18,5 @@
         "psr-4": {
             "d3yii2\\iframeresizer\\": ""
         }
-    },
+    }
 }
