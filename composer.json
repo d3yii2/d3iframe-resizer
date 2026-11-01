@@ -1,0 +1,22 @@
+{
+    "name": "d3yii2/d3iframe-resizer",
+    "description": "PHP 8 compatible Yii2 extension for javascript-based iFrame Resizer",
+    "keywords": [
+        "yii2",
+        "iframe-resizer",
+        "widget",
+        "jQuery",
+        "plugin"
+    ],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "require": {
+        "yiisoft/yii2": "*",
+        "bower-asset/iframe-resizer": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "d3yii2\\iframeresizer\\": ""
+        }
+    },
+}
